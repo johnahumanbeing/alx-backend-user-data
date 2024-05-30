@@ -1,4 +1,4 @@
-# Welcome to this repo on Backed User Data Projects
+# Welcome to this repo on Backend User Data Projects
 
 ## About
 - Handling  and protecting user data
